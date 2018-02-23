@@ -1,0 +1,14 @@
+c:\users\yanfa\documents\visual studio 2015\Projects\myProgLang\myProgLang\bin\Debug\myProgLang.exe.config
+C:\Users\yanfa\Documents\Visual Studio 2015\Projects\myProgLang\myProgLang\bin\Debug\myProgLang.exe
+C:\Users\yanfa\Documents\Visual Studio 2015\Projects\myProgLang\myProgLang\bin\Debug\myProgLang.pdb
+C:\Users\yanfa\Documents\Visual Studio 2015\Projects\myProgLang\myProgLang\obj\Debug\myProgLang.csprojResolveAssemblyReference.cache
+C:\Users\yanfa\Documents\Visual Studio 2015\Projects\myProgLang\myProgLang\obj\Debug\MainWindow.g.cs
+C:\Users\yanfa\Documents\Visual Studio 2015\Projects\myProgLang\myProgLang\obj\Debug\App.g.cs
+C:\Users\yanfa\Documents\Visual Studio 2015\Projects\myProgLang\myProgLang\obj\Debug\myProgLang_MarkupCompile.cache
+C:\Users\yanfa\Documents\Visual Studio 2015\Projects\myProgLang\myProgLang\obj\Debug\myProgLang_MarkupCompile.lref
+C:\Users\yanfa\Documents\Visual Studio 2015\Projects\myProgLang\myProgLang\obj\Debug\MainWindow.baml
+C:\Users\yanfa\Documents\Visual Studio 2015\Projects\myProgLang\myProgLang\obj\Debug\myProgLang.g.resources
+C:\Users\yanfa\Documents\Visual Studio 2015\Projects\myProgLang\myProgLang\obj\Debug\myProgLang.Properties.Resources.resources
+C:\Users\yanfa\Documents\Visual Studio 2015\Projects\myProgLang\myProgLang\obj\Debug\myProgLang.csproj.GenerateResource.Cache
+C:\Users\yanfa\Documents\Visual Studio 2015\Projects\myProgLang\myProgLang\obj\Debug\myProgLang.exe
+C:\Users\yanfa\Documents\Visual Studio 2015\Projects\myProgLang\myProgLang\obj\Debug\myProgLang.pdb
